@@ -5,7 +5,7 @@ The Objective of the Project is to diagnostically predict whether or not a patie
 ## Ensembe Learning 
 In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
 
-## constituent models/algorithms
+## Constituent models/algorithms
 
 ### KNN
 K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure (e.g., distance functions). 
@@ -22,3 +22,26 @@ it is difficult to manually change the hyperparameters and fit them on the train
 1. estimator
 2. params -  list of parameters and the range of values for each parameter of the specified estimator. All you need to do is create a dictionary (variable params in my code) that has the hyperparameters as keys and an iterable that holds the options we need to try out.
 3. cross validation - A cross validation process is performed in order to determine the hyper parameter value set which provides the best accuracy levels. variance problems is dealt with in cross validation.
+
+## ScreenShots
+### Distributions By Pregnancy
+![image](https://user-images.githubusercontent.com/44205030/112432407-db475d80-8d66-11eb-9696-f75867972f49.png)
+### Distributions by Glucose Level
+![image](https://user-images.githubusercontent.com/44205030/112432440-e8fce300-8d66-11eb-9c45-662a918c3b4f.png)
+### Distributions by Diastolic Level
+![image](https://user-images.githubusercontent.com/44205030/112432523-0a5dcf00-8d67-11eb-9011-e003daa498f1.png)
+### Distributions by Tricep 
+![image](https://user-images.githubusercontent.com/44205030/112432559-16499100-8d67-11eb-9586-ffea4ca9a29f.png)
+### Distribution by Insulin Level
+![image](https://user-images.githubusercontent.com/44205030/112432596-219cbc80-8d67-11eb-9e6a-fa81a0599ec5.png)
+### Distribution by BMI
+![image](https://user-images.githubusercontent.com/44205030/112432625-2b262480-8d67-11eb-8bce-ac377e327ead.png)
+### Distribution by Diabetic Pedigree Function
+![image](https://user-images.githubusercontent.com/44205030/112432719-47c25c80-8d67-11eb-9257-2c4f9c59e93c.png)
+### Distribution by Age
+![image](https://user-images.githubusercontent.com/44205030/112432743-50b32e00-8d67-11eb-8034-f815fe35edc3.png)
+### Comparison of KNN, Random Forest and Logistic Regression
+![image](https://user-images.githubusercontent.com/44205030/112432812-66c0ee80-8d67-11eb-865c-db7082a37e1a.png)
+
+## Conclusion
+The Score of ensemble model is more than the Individual score of constituent models
