@@ -41,7 +41,8 @@ it is difficult to manually change the hyperparameters and fit them on the train
 ### Distribution by Age
 ![image](https://user-images.githubusercontent.com/44205030/112432743-50b32e00-8d67-11eb-8034-f815fe35edc3.png)
 ### Comparison of KNN, Random Forest and Logistic Regression
-![image](https://user-images.githubusercontent.com/44205030/112432812-66c0ee80-8d67-11eb-865c-db7082a37e1a.png)
+![image](https://user-images.githubusercontent.com/44205030/112520930-f3989600-8dc1-11eb-93a5-c4e77694d52e.png)
 
 ## Conclusion
+![image](https://user-images.githubusercontent.com/44205030/112520954-fa270d80-8dc1-11eb-870e-c6acb201d0fa.png)
 The Score of ensemble model is more than the Individual score of constituent models
