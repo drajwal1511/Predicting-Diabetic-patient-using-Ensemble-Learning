@@ -44,5 +44,5 @@ it is difficult to manually change the hyperparameters and fit them on the train
 ![image](https://user-images.githubusercontent.com/44205030/112520930-f3989600-8dc1-11eb-93a5-c4e77694d52e.png)
 
 ## Conclusion
-![image](https://user-images.githubusercontent.com/44205030/112520954-fa270d80-8dc1-11eb-870e-c6acb201d0fa.png)
+![image](https://user-images.githubusercontent.com/44205030/112520954-fa270d80-8dc1-11eb-870e-c6acb201d0fa.png)  
 The Score of ensemble model is more than the Individual score of constituent models
