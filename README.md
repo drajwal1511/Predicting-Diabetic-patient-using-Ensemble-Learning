@@ -1,6 +1,6 @@
 # Predicting-Diabetic-patient-using-Ensemble-Learning
 ## Problem
-The Objective of the Project is to diagnostically predict whether or not a patient has a diabetes based on certian diagnostic measurements in the dataset. All patients are female of age >=21. 
+The Objective of the Project is to diagnostically predict whether or not a patient has diabetes based on certain diagnostic measurements in the dataset. All patients are female of age >=21. 
 
 ## Ensembe Learning 
 In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.
